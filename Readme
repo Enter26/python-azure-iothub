@@ -1,0 +1,2 @@
+This project enable to connect to Azure IotHub, send data to IotHub, 
+receive data from build-in endpoint EventHub, and seve data into postgresql database  
